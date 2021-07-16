@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hizamswq
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning reactjs and ci/cd stuffs
+- 📫 How to reach me hizam.mohd@softwareq.com
